@@ -1,0 +1,1 @@
+// Remove NativeScript references since we're using web only
